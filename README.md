@@ -2,7 +2,7 @@
 
 A clean and simple command-line tool to test APIs quickly.
 
-**Developed by Hamed Farifteh**
+**Developed by Hamed Farifteh** "حامد فریفته"
 
 ## Features
 - Support GET, POST, PUT, DELETE
